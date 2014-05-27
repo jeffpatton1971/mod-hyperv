@@ -7,7 +7,7 @@
     <ProjectGuid>{17F14AB6-F60C-40A1-B479-8F67FEEEA206}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HyperV</RootNamespace>
+    <RootNamespace>mod_hyperv</RootNamespace>
     <AssemblyName>HyperV</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

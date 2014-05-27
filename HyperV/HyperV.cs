@@ -1,4 +1,4 @@
-﻿namespace HyperV
+﻿namespace mod_hyperv
 {
     using System;
     using System.Management;
